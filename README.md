@@ -59,8 +59,6 @@ This program requires the following :
      The required sorted array of integers-:
      3 4 12 23 34 35 44 53 54 56 67 75
    
-AUTHORS
+AUTHOR
 ------------
 * Aaryan Agarwal 2019B5A30713P
-* Vedant Diwakar 2019B5A30713P
-* Dhruv Dixit 2019B5A30713P
